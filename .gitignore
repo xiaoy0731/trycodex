@@ -1,0 +1,2 @@
+# Ignore binaries generated from android_hello sample
+android_hello/hello_android*
